@@ -7,6 +7,6 @@ public class Circle implements GeometricFigure {
 
     @Override
     public double area() {
-        return radius * radius * 3.14;
+        return radius * radius * Math.PI;
     }
 }

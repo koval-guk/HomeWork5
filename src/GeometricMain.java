@@ -1,7 +1,6 @@
 import java.util.Random;
 
 public class GeometricMain {
-
     public static void main(String[] args) {
         GeometricFigure[] figureArray = new GeometricFigure[10];
         Random random = new Random();
